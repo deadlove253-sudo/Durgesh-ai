@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Durgesh AI</string>
+    <string name="app_subtitle">POCO HyperOS हिंदी वॉइस असिस्टेंट</string>
+    <string name="tab_assistant">सहायक</string>
+    <string name="tab_commands">कमांड्स</string>
+    <string name="tab_settings">सेटिंग्स</string>
+    <string name="mic_listen_desc">माइक चालू करें और हिंदी में बोलें</string>
+    <string name="mic_stop_desc">रिकॉर्डिंग रोकें</string>
+    <string name="mic_speaking_desc">बोलना रोकें</string>
+    <string name="input_hint">हिंदी या Hinglish में कमांड लिखें…</string>
+    <string name="send_desc">कमांड भेजें</string>
+</resources>

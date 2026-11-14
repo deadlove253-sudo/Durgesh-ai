@@ -1,0 +1,8 @@
+{
+  "name": "Durgesh AI",
+  "description": "Hindi voice assistant for POCO HyperOS phones using Android SpeechRecognizer, TextToSpeech, offline voice commands, and system intents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
